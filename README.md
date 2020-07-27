@@ -1,2 +1,2 @@
-# CLASS-21-CLASS-WORK
-passing arguments to the function
+# p5.play-boilerplate
+Boiler plate for p5.play
